@@ -7,7 +7,7 @@ Please follow these steps:
 2. Download the data for Kaggle's "Predicting Excitement at DonorsChoose.org" ([here](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/data)).
 3. Open a Jupyter notebook in your fork and save your work there:
   1. Do exploratory analysis. Do you see anything interesting?
-  2. Tell us a data story. Find a case and tell us what happens with it.
+  2. Tell us a data story: Find a case and tell us what happens with it.
   3. What questions would you ask the partner?
   4. (Optional) Build a model. What did you learn from it?
  
