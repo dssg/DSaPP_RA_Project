@@ -11,4 +11,4 @@ Please follow these steps:
   3. What questions would you ask the partner?
   4. (Optional) Build a model. What did you learn from it?
  
-Please do not spend more than four hours on this exercise.
+This exercise will end at 5 PM on Friday, October 18th. Please do not spend more than four hours on it. Email your fork's address to dsapp at uchicago.edu by the deadline, and we will respond by close of business on Monday.
