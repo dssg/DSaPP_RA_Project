@@ -4,12 +4,12 @@ This repository includes an exercise for aspiring DSaPP volunteers and research 
 This exercise will end at 5 PM on Friday, October 21st. Please do not spend more than a few hours on it. Email a link to your repository to dsapp at uchicago.edu by the deadline, and we will respond by close of business on Monday.
 
 
-**For Frontend Developers**: 
+**For Computer Science Role**: 
 
 Please send us a link to a github repo and a working webapp that you've built. The best examples would be projects that either require user input (like an application system) or something that involves data visualization. Please include in your email a brief explaination of who the client/partner was and what their requirements were for the project as well as how you interacted with them.
 
 
-**For Backend Developers** (data modelers, database people, etc): 
+**For Data Role** (data modelers, database people, etc): 
 Please follow these steps:
 
 1. Fork this repository. You can learn how to do that [here](https://help.github.com/articles/fork-a-repo/)
@@ -22,7 +22,7 @@ Please follow these steps:
   5. Save your notebook and commit it with an informative message, then push the commit to your repository on github.
 
 
-**For Project Management People**: 
+**For Project Management Role**: 
 Please send us the following:
 * For any project you’ve done recently, send a deliverable that you did (a report or memo or something similar. For that deliverable please explain what your role/contribution was in the deliverable vs what the team did.
   * Exercise: 
