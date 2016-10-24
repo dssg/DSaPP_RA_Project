@@ -1,8 +1,7 @@
 # DSaPP Research Assistant and Volunteer Projects
 This repository includes an exercise for aspiring DSaPP volunteers and research assistants to complete. It will help us understand what skills you have so we can find the best fit for you at DSaPP.
 
-This exercise will end at 5 PM on Friday, October 21st. Please do not spend more than a few hours on it. Email a link to your repository to dsapp at uchicago.edu by the deadline, and we will respond by close of business on Monday.
-
+Please do not spend more than 2-4 hours on it. Once you're done, please fill out the [application form](https://datascience.wufoo.com/forms/s8nvonf1kpaa3c/) and include a link to your repository there.
 
 **For Software Engineering (Back-End or Front-End) Roles**: 
 
