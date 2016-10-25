@@ -9,6 +9,7 @@ Please send us a link to a github repo and a working webapp that you've built. T
 
 
 **For Data Roles** (data modelers, database people, data analysts, machine learning, etc): 
+
 Please follow these steps:
 
 1. Fork this repository. You can learn how to do that [here](https://help.github.com/articles/fork-a-repo/)
@@ -17,7 +18,7 @@ Please follow these steps:
   1. **Exploratory analysis**. Describe the dataset using counts, averages, frequency tabeles, and plots. Do you see anything interesting or potentially problematic?
   2. **A Data Story**. Find a specific interesting case in the data and tell us what happens with it. Provide evidence from the data that supports your narrative.
   3. **Questions for the Project Partner**. What questions would you ask the partner now that you have seen the data? What is missing that you might need to get from them or other data sources to do something useful with the data?
-  4. (For those applying for machine learning positions) **Modeling**. Build (and validate) a model with the data that predicts a quantity of interest (fully funded for example), identifies underlying structure in the data, or explores a potentially important relationship among fields in the dataset. What did you learn from it? Why is it potentially useful or relevant to someone's decision making?
+  4. **Modeling** (For those applying for machine learning positions). Build (and validate) a model with the data that predicts a quantity of interest (fully funded for example), identifies underlying structure in the data, or explores a potentially important relationship among fields in the dataset. What did you learn from it? Why is it potentially useful or relevant to someone's decision making?
   5. Save your notebook and commit it with an informative message, then push the commit to your repository on github.
 
 
