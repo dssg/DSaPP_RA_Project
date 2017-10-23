@@ -14,7 +14,7 @@ Please follow these steps:
 
 1. Fork this repository. You can learn how to do that [here](https://help.github.com/articles/fork-a-repo/)
 2. Download the data for Kaggle's "Predicting Excitement at DonorsChoose.org" ([here](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/data)).
-3. Create a Jupyter notebook in your fork of this repository and that includes the following three (or four) sections:
+3. Create a Jupyter notebook (using a Python kernel) in your fork of this repository and that includes the following three (or four) sections:
   1. **Exploratory analysis**. Describe the dataset using counts, averages, frequency tabeles, and plots. Do you see anything interesting or potentially problematic?
   2. **A Data Story**. Find a specific interesting case in the data and tell us what happens with it. Provide evidence from the data that supports your narrative.
   3. **Questions for the Project Partner**. What questions would you ask the partner now that you have seen the data? What is missing that you might need to get from them or other data sources to do something useful with the data?
